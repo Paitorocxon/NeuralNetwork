@@ -1,0 +1,570 @@
+0:Was ist Rahasia?
+1:Was ist die Magische Akademie?
+2:Wer ist ein Erzmagier?
+3:Was ist der Orden Elementari?
+4:Wo befindet sich die Hauptstadt?
+5:Was ist die Abenteurer-Gilde?
+6:Wer leitet die Abenteurer Gilde?
+7:Was ist die Akademie?
+8:Was ist der Tempelschrein?
+9:Wer ist Ark'Zoth?
+10:Wer ist Tale Goldfeder?
+11:Wer ist Grush Blutfaust?
+12:Wer ist Grim Kupferbart?
+13:Was ist die Zwielicht-Ebene?
+14:Was ist die Geschichte von Rahasia?
+15:Was sind Gilden?
+16:Welche Erze kennst du?
+17:Welche Kristalle kennst du?
+18:Was ist der Kreislauf des Lebens in Rahasia?
+19:Was kann ich dich fragen?
+20:Was verbirgt sich hinter dem Begriff "Rahasia"?
+21:Kannst du mir etwas über die Magische Akademie erzählen?
+22:Wer genau wird als Erzmagier bezeichnet?
+23:Könntest du mir Informationen über den Orden Elementari geben?
+24:Wo liegt die Hauptstadt in Rahasia?
+25:Was ist die Funktion der Abenteurer-Gilde?
+26:Wer ist die Person, die die Leitung der Abenteurer-Gilde innehat?
+27:Könntest du mir mehr über die Akademie erzählen?
+28:Was ist der Tempelschrein und welche Bedeutung hat er?
+29:Wer ist Ark'Zoth und welche Rolle spielt er in Rahasia?
+30:Kannst du mir etwas über Tale Goldfeder erzählen?
+31:Wer ist Grush Blutfaust und welche Bedeutung hat er in der Geschichte?
+32:Gibt es Informationen über Grim Kupferbart?
+33:Kannst du mir die Geschichte von Rahasia näherbringen?
+34:Könntest du mir erklären, was Gilden sind?
+35:Welche verschiedenen Erze sind in Rahasia bekannt?
+36:Könntest du mir etwas über die verschiedenen Kristalle in Rahasia berichten?
+37:Wie wird der Kreislauf des Lebens in Rahasia definiert?
+38:Welche Arten von Fragen kann ich dir stellen?
+39:Was bedeutet der Begriff "Rahasia" in dieser Welt?
+40:Können Sie mir mehr Informationen über die Magische Akademie geben?
+41:Wer zählt zur Kategorie der Erzmagier?
+42:Könnten Sie bitte Einzelheiten über den Orden Elementari mitteilen?
+43:Wo genau liegt die Hauptstadt in Rahasia?
+44:Welche Aufgaben und Funktionen erfüllt die Abenteurer-Gilde?
+45:Wer steht an der Spitze der Abenteurer-Gilde?
+46:Könnten Sie mir mehr über die Akademie und ihre Zwecke erzählen?
+47:Was verbirgt sich hinter dem Begriff "Tempelschrein" und welchen Stellenwert hat er?
+48:Wer ist Ark'Zoth und welche Rolle spielt er innerhalb von Rahasia?
+49:Ich interessiere mich für Informationen über Tale Goldfeder. Können Sie etwas dazu sagen?
+50:Wer ist Grush Blutfaust und welche Bedeutung hat er in der Geschichte von Rahasia?
+51:Können Sie etwas über Grim Kupferbart erzählen?
+52:Was genau ist die Zwielicht-Ebene?
+53:Würden Sie mir die Hintergrundgeschichte von Rahasia näherbringen?
+54:Könnten Sie mir den Begriff "Gilden" und deren Bedeutung näher erläutern?
+55:Welche Arten von Erzen sind in Rahasia bekannt?
+56:Können Sie mir Informationen über die verschiedenen Kristalle in Rahasia bereitstellen?
+57:Wie wird der Kreislauf des Lebens in der Welt von Rahasia definiert?
+58:Welche Fragen kann ich Ihnen allgemein stellen?
+59:Was birgt sich in dem Wort "Rahasia"?
+60:Mögt Ihr mir mehr Kunde von der Magischen Akademie geben?
+61:Wer zählt als ein wahrer Erzmagier?
+62:Könntet Ihr mir Bescheid geben über den Orden Elementari?
+63:Wo genau verweilet die Hauptstadt in Rahasia?
+64:Welche Aufgaben und Pflichten übernehmen die Mitglieder der Abenteurer-Gilde?
+65:Wer hält die Führung der Abenteurer-Gilde inne?
+66:Wäret Ihr so gütig, mir weitere Erkenntnisse zur Akademie und ihren Zwecken kundzutun?
+67:Was birgt sich in dem Begriff "Tempelschrein" und welches Gewicht kommt ihm zu?
+68:Wer ist Ark'Zoth, und welches Amt hat er inne in Rahasia?
+69:Mögt Ihr mir Kunde geben von Tale Goldfeder?
+70:Wer ist dieser Grush Blutfaust, und welchen Stellenwert hat er in der Geschichte Rahasias?
+71:Könntet Ihr mir Bescheid geben über Grim Kupferbart?
+72:Welches ist die Natur der Zwielicht-Ebene?
+73:Mögt Ihr mir die Historie Rahasias näherbringen?
+74:Könntet Ihr mir erklären, was Gilden sind und welch Bedeutung sie tragen?
+75:Welche Sorten Erz sind in Rahasia bekannt?
+76:Könntet Ihr mir Einblicke verschaffen in die verschiedenen Kristalle Rahasias?
+77:Welche Fragen darf ich Euch generell vorbringen?
+78:Rahasia ist die Welt in derer wir uns befinden!
+79:Die Magische Akademie, gegründet nach Göttin's Wunsch, fördert Magie-Forschung und Lehre durch Erzmagier Rahasias, der einen Orden der Elementari ins Leben ruft und Expeditionen zu unerreichbaren Regionen leitet.
+80:Der Erzmagier, von Magiern und Gildenleitern gewählt, verkörpert höchste Magie. Hüter des Manuskripus Magikus, lenkt die Hauptstadt, führt die Magiergilde, verbindet sich mit Elementargeistern und lenkt Ordensbrüder für die magische Welt.
+81:Der Orden der Elementari, aus Magiern und Gelehrten gebildet, rekrutiert Begabte für die Akademie, untersucht magische Verbrechen, erforscht Artefakte und wahrt Unparteilichkeit; bei bedeutenden Expeditionen stets präsent.
+82:Die Hauptstadt, aus den Ruinen einer alten Zivilisation entstanden, blüht in Rahasia. Als zentraler Knotenpunkt bietet sie Händler, Dienste und Geheimnisse, während die Ruinen erforscht werden und die Stadt wächst, um in neuem Glanz zu erstrahlen.
+83:Die Abenteurer Gilde, westlich der Hauptstadt, nahe gelegen, ist ein Bündnis von Forschern und Abenteurern. Jeder, der beiträgt, sei es als Händler, Forscher oder Tagelöhner, wird willkommen geheißen und kann in Aufgaben teilhaben.
+84:Grim Kupferbart, der Zwerg, der seine Nase überall hinein steckt, leitet die Abenteurer Gilde. Sein Durst nach Wissen und verborgenen Schätzen ist unstillbar.
+85:Die Akademie, auch bekannt als der Hort des Wissens, stärkt Abenteurer in Magie, Alchemie und Kampfkunst. Magier und Kämpfer finden hier gemeinsam Erkenntnis, östlich der Hauptstadt gelegen.
+86:Der Tempelschrein ehrt die letzte Göttin, welche den Krieg beendete und die Wiedererweckten ins Leben rief. Im Tempel wird sie verehrt, manche sagen, Priester sahen sie sogar. Das Mysterium ihrer Erweckung bleibt ungelöst.
+87:Ark'Zoth, vielfach benannt: "Der dunkle Wanderer" oder "Herr des Zwielichts". Aus der Zwielicht-Ebene stammend, bleibt er unerreichbar und rätselhaft. Als Sphärenbeobachter verbirgt er seine wahre Natur, ein Rätsel, das gelöst werden muss.
+88:Tale Goldfeder ist der Leiter der Magier-Gilde und Lehrmeister der Magie. Er unterrichtet normalerweise jeden Schüler, jedoch ist dieser Halbelf als sehr hochnäsig bekannt und stellt sein Wissen und seine Macht natürlich über alles Andere.
+89:Grush Blutfaust ist die Blutfaust: Kampfmeister und Waffenlehrer in der Akademie. Strenge Schulung, Schwäche verboten, Training bedeutet Schweiß und Blut.
+90:Die Zwielicht-Ebene ist das Schattenreich der Geister und Dämonen, zwischen Leben und Tod. Götter wirken begrenzt, Landschaften von Dunkelheit bis Schönheit. Heimat der Sphären, unergründlich, unzugänglich, Unsterblichkeit für Dämonen, selten für Götter.
+91:Alles startet mit Träumen. Im Jahr 0 entsteht eine junge Welt mit aufstrebendem Leben. Die Ersten, Entdecker der Macht, rufen die ersten Götter ins Leben, doch der Glaube spaltet die alte Welt in Kriege und Chaos. Es liegt an dir nun!
+92:Gilden, fest verknüpft aus Abenteurern mit gemeinsamen Zielen - von Stärkung bis Gebietsverwaltung. Gilden sind entscheidend für Aufbau und Schutz. Der Gildenrat leitet, setzt Ziele und Regeln.
+93:Kohle, Quarz, Obsidian, Basalt, Kupfer, Zinn, Bronze, Eisen, Stahl, Zwergenstahl, Silber, Gold, Reinsilber, Geisterstahl, Schattenstahl, Adamantit, Kobalt, Titan, Mithril, Lichteisenerz und Arkanit. Aber es gibt noch Kristalle!
+94:Ich kenne Diamant, Rubin, Rhodolit, Opal, Onyx, Saphir, Smaragd, Topaz, Amethyst, Mondstein, Citrin, Bernstein als Normale Kristalle und Feuerstein, Arkankristalle und Blutstein als Besondere.
+95:In der Welt "Rahasia" ist Leben geliehene Energie, Teil einer Weltenseele. Der Kreislauf besteht aus Nehmen, Behalten und Zurückgeben der Kraft. Nach dem Tod kehren Seelen gereinigt zur Weltenseele zurück, Bewusstsein bleibt.
+96:Frag mich über Erze! Oder die Akademie! Ich weiß nicht alles, aber bestimmt einiges!
+97:Was
+98:ist
+99:Rahasia
+100:die
+101:Welt
+102:in
+103:derer
+104:wir
+105:uns
+106:befinden
+107:Magische
+108:Akademie
+109:Die
+110:gegründet
+111:nach
+112:Göttin's
+113:Wunsch
+114:fördert
+115:Magie-Forschung
+116:und
+117:Lehre
+118:durch
+119:Erzmagier
+120:Rahasias
+121:der
+122:einen
+123:Orden
+124:Elementari
+125:ins
+126:Leben
+127:ruft
+128:Expeditionen
+129:zu
+130:unerreichbaren
+131:Regionen
+132:leitet
+133:Wer
+134:ein
+135:Der
+136:von
+137:Magiern
+138:Gildenleitern
+139:gewählt
+140:verkörpert
+141:höchste
+142:Magie
+143:Hüter
+144:des
+145:Manuskripus
+146:Magikus
+147:lenkt
+148:Hauptstadt
+149:führt
+150:Magiergilde
+151:verbindet
+152:sich
+153:mit
+154:Elementargeistern
+155:Ordensbrüder
+156:für
+157:magische
+158:aus
+159:Gelehrten
+160:gebildet
+161:rekrutiert
+162:Begabte
+163:untersucht
+164:Verbrechen
+165:erforscht
+166:Artefakte
+167:wahrt
+168:Unparteilichkeit;
+169:bei
+170:bedeutenden
+171:stets
+172:präsent
+173:Wo
+174:befindet
+175:den
+176:Ruinen
+177:einer
+178:alten
+179:Zivilisation
+180:entstanden
+181:blüht
+182:Als
+183:zentraler
+184:Knotenpunkt
+185:bietet
+186:sie
+187:Händler
+188:Dienste
+189:Geheimnisse
+190:während
+191:werden
+192:Stadt
+193:wächst
+194:um
+195:neuem
+196:Glanz
+197:erstrahlen
+198:Abenteurer-Gilde
+199:Abenteurer
+200:Gilde
+201:westlich
+202:nahe
+203:gelegen
+204:Bündnis
+205:Forschern
+206:Abenteurern
+207:Jeder
+208:beiträgt
+209:sei
+210:es
+211:als
+212:Forscher
+213:oder
+214:Tagelöhner
+215:wird
+216:willkommen
+217:geheißen
+218:kann
+219:Aufgaben
+220:teilhaben
+221:Grim
+222:Kupferbart
+223:Zwerg
+224:seine
+225:Nase
+226:überall
+227:hinein
+228:steckt
+229:Sein
+230:Durst
+231:Wissen
+232:verborgenen
+233:Schätzen
+234:unstillbar
+235:auch
+236:bekannt
+237:Hort
+238:Wissens
+239:stärkt
+240:Alchemie
+241:Kampfkunst
+242:Magier
+243:Kämpfer
+244:finden
+245:hier
+246:gemeinsam
+247:Erkenntnis
+248:östlich
+249:Tempelschrein
+250:ehrt
+251:letzte
+252:Göttin
+253:welche
+254:Krieg
+255:beendete
+256:Wiedererweckten
+257:rief
+258:Im
+259:Tempel
+260:verehrt
+261:manche
+262:sagen
+263:Priester
+264:sahen
+265:sogar
+266:Das
+267:Mysterium
+268:ihrer
+269:Erweckung
+270:bleibt
+271:ungelöst
+272:Ark'Zoth
+273:vielfach
+274:benannt:
+275:"Der
+276:dunkle
+277:Wanderer"
+278:"Herr
+279:Zwielichts"
+280:Aus
+281:Zwielicht-Ebene
+282:stammend
+283:er
+284:unerreichbar
+285:rätselhaft
+286:Sphärenbeobachter
+287:verbirgt
+288:wahre
+289:Natur
+290:Rätsel
+291:das
+292:gelöst
+293:muss
+294:Tale
+295:Goldfeder
+296:Leiter
+297:Magier-Gilde
+298:Lehrmeister
+299:Er
+300:unterrichtet
+301:normalerweise
+302:jeden
+303:Schüler
+304:jedoch
+305:dieser
+306:Halbelf
+307:sehr
+308:hochnäsig
+309:stellt
+310:sein
+311:Macht
+312:natürlich
+313:über
+314:alles
+315:Andere
+316:Grush
+317:Blutfaust
+318:Blutfaust:
+319:Kampfmeister
+320:Waffenlehrer
+321:Strenge
+322:Schulung
+323:Schwäche
+324:verboten
+325:Training
+326:bedeutet
+327:Schweiß
+328:Blut
+329:Schattenreich
+330:Geister
+331:Dämonen
+332:zwischen
+333:Tod
+334:Götter
+335:wirken
+336:begrenzt
+337:Landschaften
+338:Dunkelheit
+339:bis
+340:Schönheit
+341:Heimat
+342:Sphären
+343:unergründlich
+344:unzugänglich
+345:Unsterblichkeit
+346:selten
+347:Geschichte
+348:Alles
+349:startet
+350:Träumen
+351:Jahr
+352:0
+353:entsteht
+354:eine
+355:junge
+356:aufstrebendem
+357:Ersten
+358:Entdecker
+359:rufen
+360:ersten
+361:doch
+362:Glaube
+363:spaltet
+364:alte
+365:Kriege
+366:Chaos
+367:Es
+368:liegt
+369:an
+370:dir
+371:nun
+372:sind
+373:Gilden
+374:fest
+375:verknüpft
+376:gemeinsamen
+377:Zielen
+378:-
+379:Stärkung
+380:Gebietsverwaltung
+381:entscheidend
+382:Aufbau
+383:Schutz
+384:Gildenrat
+385:setzt
+386:Ziele
+387:Regeln
+388:Welche
+389:Erze
+390:kennst
+391:du
+392:Kohle
+393:Quarz
+394:Obsidian
+395:Basalt
+396:Kupfer
+397:Zinn
+398:Bronze
+399:Eisen
+400:Stahl
+401:Zwergenstahl
+402:Silber
+403:Gold
+404:Reinsilber
+405:Geisterstahl
+406:Schattenstahl
+407:Adamantit
+408:Kobalt
+409:Titan
+410:Mithril
+411:Lichteisenerz
+412:Arkanit
+413:Aber
+414:gibt
+415:noch
+416:Kristalle
+417:Ich
+418:kenne
+419:Diamant
+420:Rubin
+421:Rhodolit
+422:Opal
+423:Onyx
+424:Saphir
+425:Smaragd
+426:Topaz
+427:Amethyst
+428:Mondstein
+429:Citrin
+430:Bernstein
+431:Normale
+432:Feuerstein
+433:Arkankristalle
+434:Blutstein
+435:Besondere
+436:Kreislauf
+437:Lebens
+438:In
+439:"Rahasia"
+440:geliehene
+441:Energie
+442:Teil
+443:Weltenseele
+444:besteht
+445:Nehmen
+446:Behalten
+447:Zurückgeben
+448:Kraft
+449:Nach
+450:dem
+451:kehren
+452:Seelen
+453:gereinigt
+454:zur
+455:zurück
+456:Bewusstsein
+457:ich
+458:dich
+459:fragen
+460:Frag
+461:mich
+462:Oder
+463:weiß
+464:nicht
+465:aber
+466:bestimmt
+467:einiges
+468:hinter
+469:Begriff
+470:Kannst
+471:mir
+472:etwas
+473:erzählen
+474:genau
+475:bezeichnet
+476:Könntest
+477:Informationen
+478:geben
+479:Funktion
+480:Person
+481:Leitung
+482:innehat
+483:mehr
+484:Bedeutung
+485:hat
+486:Rolle
+487:spielt
+488:Gibt
+489:näherbringen
+490:erklären
+491:was
+492:verschiedenen
+493:berichten
+494:Wie
+495:definiert
+496:Arten
+497:Fragen
+498:stellen
+499:Können
+500:Sie
+501:zählt
+502:Kategorie
+503:Könnten
+504:bitte
+505:Einzelheiten
+506:mitteilen
+507:Funktionen
+508:erfüllt
+509:steht
+510:Spitze
+511:ihre
+512:Zwecke
+513:"Tempelschrein"
+514:welchen
+515:Stellenwert
+516:innerhalb
+517:interessiere
+518:dazu
+519:Würden
+520:Hintergrundgeschichte
+521:"Gilden"
+522:deren
+523:näher
+524:erläutern
+525:Erzen
+526:bereitstellen
+527:Ihnen
+528:allgemein
+529:birgt
+530:Wort
+531:Mögt
+532:Ihr
+533:Kunde
+534:Magischen
+535:wahrer
+536:Könntet
+537:Bescheid
+538:verweilet
+539:Pflichten
+540:übernehmen
+541:Mitglieder
+542:hält
+543:Führung
+544:inne
+545:Wäret
+546:so
+547:gütig
+548:weitere
+549:Erkenntnisse
+550:ihren
+551:Zwecken
+552:kundzutun
+553:welches
+554:Gewicht
+555:kommt
+556:ihm
+557:Amt
+558:Welches
+559:Historie
+560:welch
+561:tragen
+562:Sorten
+563:Erz
+564:Einblicke
+565:verschaffen
+566:darf
+567:Euch
+568:generell
+569:vorbringen
