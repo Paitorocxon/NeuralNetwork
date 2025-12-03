@@ -14,7 +14,6 @@ SPLAI_2.NeuralNetwork is a C# project developed by Fabian Müller. This project 
 - [Usage](#usage)
 - [Training](#training)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## License
 
@@ -64,10 +63,6 @@ neuralNetwork.Train(inputText, targetText, wrongAnswerText, epochs: 10, learning
 ## Contributing
 
 Contributions to this project are welcome. If you have any ideas, bug fixes, or improvements, please open an issue or create a pull request.
-
-## Contact
-
-If you have any questions or need further assistance, you can contact Fabian Müller at [fabian@brutal-it.de](mailto:fabian@brutal-it.de).
 
 Enjoy using SPLAI_2.NeuralNetwork!
 
